@@ -1,0 +1,3 @@
+module rol {
+	exports juegorol;
+}
